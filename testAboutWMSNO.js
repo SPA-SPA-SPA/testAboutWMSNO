@@ -109,10 +109,10 @@ var knowledgePad = {
         {text1: "70", text2: "seventy"},
         {text1: "80", text2: "eighty"},
         {text1: "90", text2: "ninety"},
-        {text1: "百", text2: "hundred"},
-        {text1: "千", text2: "thousand"},
-        {text1: "百万", text2: "million"},
-        {text1: "十亿", text2: "billion"},
+        {text1: "百(00)", text2: "hundred"},
+        {text1: "千(000)", text2: "thousand"},
+        {text1: "百万(000,000)", text2: "million"},
+        {text1: "十亿(000,000,000)", text2: "billion"},
         {text1: "第1", text2: "first"},
         {text1: "第2", text2: "second"},
         {text1: "第3", text2: "third"},
@@ -132,7 +132,7 @@ var knowledgePad = {
         {text1: "第17", text2: "seventeenth"},
         {text1: "第18", text2: "eighteenth"},
         {text1: "第19", text2: "nineteenth"},
-        {text1: "第20", text2: "twenty"},
+        {text1: "第20", text2: "twentieth"},
         {text1: "第21", text2: "twenty-first"},
         {text1: "第25", text2: "twenty-fifth"},
         {text1: "第30", text2: "thirtieth"},
@@ -142,7 +142,7 @@ var knowledgePad = {
         {text1: "第70", text2: "seventieth"},
         {text1: "第80", text2: "eightieth"},
         {text1: "第90", text2: "ninetieth"},
-        {text1: "第100", text2: "hundred"},
+        {text1: "第100", text2: "hundredth"},
     ]
 };
 
